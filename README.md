@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ryanmc954
-- 👀 I’m interested in Climbing, Ice skating and abit of code.
+- 👋 Hi, I’m Ryan
+- 👀 my intrests are Climbing, Ice skating and codeing.
 - 🌱 I'm currently using HTML, CSS and JavaScript.
-- 💞️ I’m looking to collaborate on easy projects.
+- 💞️ I’m looking to collaborate on small projects.
 - 📫 reach me by email: ryanmc2009@hotmail.co.uk
 
 <!---
