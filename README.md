@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ryan
-- 👀 My intrests are Climbing, Ice skating and codeing.
+- 👀 My intrests are Climbing, Ice skating and coding.
 - 🌱 Knowledge in HTML, CSS and JavaScript.
 - 💞️ Looking to collaborate on small projects.
 - 📫 Reach me by email: ryanmc2009@hotmail.co.uk
